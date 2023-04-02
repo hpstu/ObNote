@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "c960da02707a6d0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe2cca1e409d27e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0895195a348639c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d4614d635e9128f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d3c4ab3555dd578",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7924891c97b91e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6e62f1db35091b20",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ecd60a6978270703",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "9cbf9f553414cb7e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "90c095ef65d522dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1975a82cfe14d53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "082f8732b9d1abfb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a85e316ece2f4c60",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98e6c3fd2c32b22d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "263574241fbe106a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "0895195a348639c8",
+  "lastOpenFiles": [
+    "Git.md",
+    "().md",
+    "note.md",
+    "2023-03-31.md",
+    "Pasted image 20230331162956.png",
+    "1912.03825.pdf",
+    "你好.md",
+    "未命名.canvas",
+    "未命名",
+    "fdsfdsfsd.md",
+    "fds.md",
+    "未命名 1.canvas",
+    "2023-03-12.md"
+  ]
+}
